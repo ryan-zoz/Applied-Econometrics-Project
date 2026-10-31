@@ -1,1 +1,4 @@
-
+The pilot covers 28 days and 80 models, comprising 1,400 model-day observations with 99.7% price coverage. 
+Usage varies substantially across models and is concentrated among leading products;
+20 models exhibit quote variation. Exploratory plots reveal no clear simple price–usage relationship.
+Further analysis should incorporate model quality and distinguish between-model differences from within-model changes.
